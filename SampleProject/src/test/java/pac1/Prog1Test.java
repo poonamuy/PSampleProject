@@ -25,4 +25,10 @@ class Prog1Test {
 		System.out.println("Excecute Modify contact");
 	}
 	
+	@Test
+	public void DeleteContact()
+	{
+		System.out.println("Excecute delete contact");
+	}
+	
 }
